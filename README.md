@@ -34,4 +34,4 @@ Risks were analyzed based on likelihood and businessimpact and documented in the
 - Security Risk Identification 
 
 ## Career Goals 
-I am a Computer Science student pursuing a career in Cloud Security and Cybersecurity. This repository showcases my understanding of security auditing, risk assessment, and security documentation as I continue building My cybersecurity skills and work toward ComTIA Security+ and Cloud security certifications. 
+I am a Computer Science student pursuing a career in Cloud Security and Cybersecurity. This repository showcases my understanding of security auditing, risk assessment, and security documentation as I continue building cybersecurity skills and work toward ComTIA Security+ and Cloud security certifications. 
