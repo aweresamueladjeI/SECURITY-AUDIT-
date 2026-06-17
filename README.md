@@ -31,7 +31,12 @@ Risks were analyzed based on likelihood and businessimpact and documented in the
 - Security Controls Review
 - Cybersecurity Fundamentals
 - Security Reporting
-- Security Risk Identification 
+- Security Risk Identification
+
+## Tools Used 
+- Github
+- Git
+- Markdown
 
 ## Career Goals 
 I am a Computer Science student pursuing a career in Cloud Security and Cybersecurity. This repository showcases my understanding of security auditing, risk assessment, and security documentation as I continue building cybersecurity skills and work toward ComTIA Security+ and Cloud security certifications. 
